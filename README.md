@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Hitha Veluru 👋  
 
 🎓 **B.Tech in Computer Science (Data Science)** | Presidency University, Bangalore (Graduating: 2025)  
