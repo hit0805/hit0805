@@ -24,6 +24,12 @@
 - **💬 Customer Support Chatbot with Generative AI**  
   NLP-driven chatbot with SQL backend + Power BI dashboards.  
 
+- **ECommSalesDashboard** 
+  An e-commerce sales dashboard, likely built with Power BI or similar tools.
+
+- **DeepResearchAgent** 
+  Your dual-agent research system (Jupyter Notebook).
+
 ---
 
 ## 🛠️ Tech Stack  
@@ -47,13 +53,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hit0805&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hit0805&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 ---
