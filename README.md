@@ -1,6 +1,6 @@
 # Hi there, I'm Hitha Veluru 👋  
 
-🎓 **B.Tech in Computer Science (Data Science)** | Presidency University, Bangalore (Graduating: 2025)  
+🎓 **B.Tech in Computer Science (Data Science)** | Presidency University, Bangalore (Graduated: 2025)  
 💡 Passionate about **Generative AI, NLP, Machine Learning, and Data Analytics**  
 🔍 Enthusiastic about solving real-world problems using AI-driven and data-centric solutions  
 
